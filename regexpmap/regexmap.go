@@ -3,8 +3,6 @@ package regexpmap
 import(
 	"regexp"
 )
-	
-
 
 var regexps = make(map[string]*regexp.Regexp); 
 

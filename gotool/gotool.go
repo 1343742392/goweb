@@ -4,8 +4,8 @@ import (
 	"fmt"
 	"reflect"
 	"strings"
-	"goweb/arrays"
-	"goweb/regexpmap"
+	"github.com/1343742392/goweb/arrays"
+	"github.com/1343742392/goweb/regexpmap"
 )
 
 func GetImportStart(code string) int {

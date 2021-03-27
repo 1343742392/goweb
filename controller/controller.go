@@ -1,7 +1,7 @@
 package controller
 
 import(
-	"goweb/filetool"
+	"github.com/1343742392/goweb/filetool"
 	"fmt"
 )
 
